@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @douggmill
+- 👀 I’m interested in gamming, robotics and electronic audio.
+- 🌱 I’m currently learning websockets with Python and Arduino IDE.
+- 💞️ I’m looking to collaborate on USB gamepads over WiFi.
+- 📫 Douglas.Gammill@gmail.com
